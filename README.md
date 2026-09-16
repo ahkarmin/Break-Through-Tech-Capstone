@@ -7,8 +7,8 @@ This repository contains a Jupyter Notebook detailing the end-to-end machine lea
 This problem matters to organizations focused on helping underserved communities. By accurately predicting income brackets, these organizations can identify individuals who may qualify for low-interest loans and financial education programs, thereby optimizing outreach and maximizing community benefit.
 
 ## Dataset
-**Source:** 1994 U.S. Census Data 
-**Target/Label:** `income_binary` (Binary classification: `<=50K` vs `>50K`)
+**Source:** [1994 U.S. Census Data](https://archive.ics.uci.edu/dataset/20/census+income)  
+**Target/Label:** `income_binary` (Binary classification: `<=50K` vs `>50K`)  
 **Key Features:** `age`, `workclass`, `fnlwgt`, `education`, `marital-status`, `sex_selfID`, `hours-per-week`, `capital-gain`, and `capital-loss`.
 
 ## Project Contents (Inside the `.ipynb` Notebook)
